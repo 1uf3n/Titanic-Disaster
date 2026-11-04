@@ -1,0 +1,21 @@
+# Git files
+.git
+.gitignore
+
+# Kaggle datasets and generated outputs
+src/data/
+outputs/
+
+# Python cache and virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user/
